@@ -8,4 +8,14 @@
 
 ---
 
-French computer science student into cybersecurity and programming.
+## 👀 About me
+
+I'm a french computer science student into cybersecurity and programming.
+
+---
+
+## 🛠 Languages and tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>
+</div>
