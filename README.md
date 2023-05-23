@@ -23,3 +23,5 @@ I'm a french computer science student into cybersecurity and programming.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey-diederichs)](https://github.com/anuraghazra/github-readme-stats)
