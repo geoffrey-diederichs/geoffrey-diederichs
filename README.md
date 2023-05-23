@@ -24,4 +24,4 @@ I'm a french computer science student into cybersecurity and programming.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
 </div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey-diederichs&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrey-diederichs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
