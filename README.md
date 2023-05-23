@@ -1,4 +1,4 @@
-<h1 style="align: center">
+<h1 style="width: 50%">
   hello 👋
 </h1>
 
