@@ -10,7 +10,7 @@
 
 ### 👀 About me
 
-I'm a french computer science student that's into cybersecurity and programming.
+I'm a French computer science student who's into cybersecurity and programming.
 
 ---
 
