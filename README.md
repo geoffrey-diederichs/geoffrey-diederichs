@@ -22,5 +22,8 @@ I'm a French computer science student who's into cybersecurity and programming.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>
+</div>
+
+<div>
   <img src="https://github.com/geoffrey-diederichs/geoffrey-diederichs/blob/main/Icons/assembly_icon.png" title="assembly" alt="assembly" width="50" height="50"/>
 </div>
